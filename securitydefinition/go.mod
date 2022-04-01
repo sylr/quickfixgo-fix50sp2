@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/securitydefinition
+module github.com/sylr/quickfixgo-fix50sp2/securitydefinition
 
 go 1.18
 

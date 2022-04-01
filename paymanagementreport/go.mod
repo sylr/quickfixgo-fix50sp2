@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/paymanagementreport
+module github.com/sylr/quickfixgo-fix50sp2/paymanagementreport
 
 go 1.18
 

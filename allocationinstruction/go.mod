@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/allocationinstruction
+module github.com/sylr/quickfixgo-fix50sp2/allocationinstruction
 
 go 1.18
 

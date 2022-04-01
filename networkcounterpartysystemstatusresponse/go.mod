@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/networkcounterpartysystemstatusresponse
+module github.com/sylr/quickfixgo-fix50sp2/networkcounterpartysystemstatusresponse
 
 go 1.18
 

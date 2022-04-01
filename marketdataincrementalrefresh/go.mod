@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/marketdataincrementalrefresh
+module github.com/sylr/quickfixgo-fix50sp2/marketdataincrementalrefresh
 
 go 1.18
 

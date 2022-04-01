@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/massorderack
+module github.com/sylr/quickfixgo-fix50sp2/massorderack
 
 go 1.18
 

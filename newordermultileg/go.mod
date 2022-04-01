@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/newordermultileg
+module github.com/sylr/quickfixgo-fix50sp2/newordermultileg
 
 go 1.18
 

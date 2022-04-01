@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/partyrisklimitsdefinitionrequestack
+module github.com/sylr/quickfixgo-fix50sp2/partyrisklimitsdefinitionrequestack
 
 go 1.18
 

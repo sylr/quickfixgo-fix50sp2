@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/bidresponse
+module github.com/sylr/quickfixgo-fix50sp2/bidresponse
 
 go 1.18
 

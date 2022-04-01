@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/tradingsessionlistupdatereport
+module github.com/sylr/quickfixgo-fix50sp2/tradingsessionlistupdatereport
 
 go 1.18
 

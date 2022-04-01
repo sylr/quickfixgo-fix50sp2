@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/partydetailsdefinitionrequestack
+module github.com/sylr/quickfixgo-fix50sp2/partydetailsdefinitionrequestack
 
 go 1.18
 

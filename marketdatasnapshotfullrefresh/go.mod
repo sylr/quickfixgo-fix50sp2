@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/marketdatasnapshotfullrefresh
+module github.com/sylr/quickfixgo-fix50sp2/marketdatasnapshotfullrefresh
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/massquoteack
+module github.com/sylr/quickfixgo-fix50sp2/massquoteack
 
 go 1.18
 

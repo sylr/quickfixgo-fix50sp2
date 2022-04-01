@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/settlementobligationreport
+module github.com/sylr/quickfixgo-fix50sp2/settlementobligationreport
 
 go 1.18
 

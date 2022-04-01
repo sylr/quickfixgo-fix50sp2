@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/paymanagementrequestack
+module github.com/sylr/quickfixgo-fix50sp2/paymanagementrequestack
 
 go 1.18
 

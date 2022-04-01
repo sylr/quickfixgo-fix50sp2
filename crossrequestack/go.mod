@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/crossrequestack
+module github.com/sylr/quickfixgo-fix50sp2/crossrequestack
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/partydetailsdefinitionrequest
+module github.com/sylr/quickfixgo-fix50sp2/partydetailsdefinitionrequest
 
 go 1.18
 

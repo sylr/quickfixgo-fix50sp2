@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/adjustedpositionreport
+module github.com/sylr/quickfixgo-fix50sp2/adjustedpositionreport
 
 go 1.18
 

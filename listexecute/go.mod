@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/listexecute
+module github.com/sylr/quickfixgo-fix50sp2/listexecute
 
 go 1.18
 

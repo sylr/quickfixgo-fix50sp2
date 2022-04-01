@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/derivativesecuritylistupdatereport
+module github.com/sylr/quickfixgo-fix50sp2/derivativesecuritylistupdatereport
 
 go 1.18
 

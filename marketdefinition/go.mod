@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/marketdefinition
+module github.com/sylr/quickfixgo-fix50sp2/marketdefinition
 
 go 1.18
 

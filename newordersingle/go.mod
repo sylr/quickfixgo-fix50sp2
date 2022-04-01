@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/newordersingle
+module github.com/sylr/quickfixgo-fix50sp2/newordersingle
 
 go 1.18
 

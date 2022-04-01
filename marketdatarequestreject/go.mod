@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/marketdatarequestreject
+module github.com/sylr/quickfixgo-fix50sp2/marketdatarequestreject
 
 go 1.18
 

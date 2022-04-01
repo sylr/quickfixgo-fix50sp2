@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/email
+module github.com/sylr/quickfixgo-fix50sp2/email
 
 go 1.18
 

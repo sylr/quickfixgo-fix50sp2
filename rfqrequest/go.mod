@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/rfqrequest
+module github.com/sylr/quickfixgo-fix50sp2/rfqrequest
 
 go 1.18
 

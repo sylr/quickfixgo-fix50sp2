@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/collateralinquiryack
+module github.com/sylr/quickfixgo-fix50sp2/collateralinquiryack
 
 go 1.18
 

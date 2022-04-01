@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/positiontransferreport
+module github.com/sylr/quickfixgo-fix50sp2/positiontransferreport
 
 go 1.18
 

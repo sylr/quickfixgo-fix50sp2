@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/accountsummaryreport
+module github.com/sylr/quickfixgo-fix50sp2/accountsummaryreport
 
 go 1.18
 

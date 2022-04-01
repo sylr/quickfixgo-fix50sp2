@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/confirmationrequest
+module github.com/sylr/quickfixgo-fix50sp2/confirmationrequest
 
 go 1.18
 

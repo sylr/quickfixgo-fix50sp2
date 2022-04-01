@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/quoteack
+module github.com/sylr/quickfixgo-fix50sp2/quoteack
 
 go 1.18
 

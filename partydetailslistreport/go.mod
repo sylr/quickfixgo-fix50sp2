@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/partydetailslistreport
+module github.com/sylr/quickfixgo-fix50sp2/partydetailslistreport
 
 go 1.18
 

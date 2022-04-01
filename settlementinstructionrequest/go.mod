@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/settlementinstructionrequest
+module github.com/sylr/quickfixgo-fix50sp2/settlementinstructionrequest
 
 go 1.18
 

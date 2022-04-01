@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/securitylistrequest
+module github.com/sylr/quickfixgo-fix50sp2/securitylistrequest
 
 go 1.18
 

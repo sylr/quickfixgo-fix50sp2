@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/partyentitlementsdefinitionrequestack
+module github.com/sylr/quickfixgo-fix50sp2/partyentitlementsdefinitionrequestack
 
 go 1.18
 

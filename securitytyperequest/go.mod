@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/securitytyperequest
+module github.com/sylr/quickfixgo-fix50sp2/securitytyperequest
 
 go 1.18
 

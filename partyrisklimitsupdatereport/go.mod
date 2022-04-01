@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/partyrisklimitsupdatereport
+module github.com/sylr/quickfixgo-fix50sp2/partyrisklimitsupdatereport
 
 go 1.18
 

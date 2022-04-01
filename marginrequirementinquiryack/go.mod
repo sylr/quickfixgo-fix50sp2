@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/marginrequirementinquiryack
+module github.com/sylr/quickfixgo-fix50sp2/marginrequirementinquiryack
 
 go 1.18
 

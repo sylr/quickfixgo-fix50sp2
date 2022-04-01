@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/tradematchreport
+module github.com/sylr/quickfixgo-fix50sp2/tradematchreport
 
 go 1.18
 

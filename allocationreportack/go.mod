@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/allocationreportack
+module github.com/sylr/quickfixgo-fix50sp2/allocationreportack
 
 go 1.18
 

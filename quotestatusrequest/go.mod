@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/quotestatusrequest
+module github.com/sylr/quickfixgo-fix50sp2/quotestatusrequest
 
 go 1.18
 

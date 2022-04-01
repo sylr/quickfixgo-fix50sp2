@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/tradingsessionstatusrequest
+module github.com/sylr/quickfixgo-fix50sp2/tradingsessionstatusrequest
 
 go 1.18
 

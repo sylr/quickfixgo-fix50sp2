@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/positionreport
+module github.com/sylr/quickfixgo-fix50sp2/positionreport
 
 go 1.18
 

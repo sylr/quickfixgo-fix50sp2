@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/advertisement
+module github.com/sylr/quickfixgo-fix50sp2/advertisement
 
 go 1.18
 

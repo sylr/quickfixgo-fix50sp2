@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/securitymassstatusrequest
+module github.com/sylr/quickfixgo-fix50sp2/securitymassstatusrequest
 
 go 1.18
 

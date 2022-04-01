@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/allocationinstructionalertrequest
+module github.com/sylr/quickfixgo-fix50sp2/allocationinstructionalertrequest
 
 go 1.18
 

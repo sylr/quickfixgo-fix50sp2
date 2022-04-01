@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/positiontransferinstructionack
+module github.com/sylr/quickfixgo-fix50sp2/positiontransferinstructionack
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/dontknowtrade
+module github.com/sylr/quickfixgo-fix50sp2/dontknowtrade
 
 go 1.18
 

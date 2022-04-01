@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/multilegordercancelreplace
+module github.com/sylr/quickfixgo-fix50sp2/multilegordercancelreplace
 
 go 1.18
 

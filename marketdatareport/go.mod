@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/marketdatareport
+module github.com/sylr/quickfixgo-fix50sp2/marketdatareport
 
 go 1.18
 

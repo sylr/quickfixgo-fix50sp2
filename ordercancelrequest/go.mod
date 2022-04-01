@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/ordercancelrequest
+module github.com/sylr/quickfixgo-fix50sp2/ordercancelrequest
 
 go 1.18
 

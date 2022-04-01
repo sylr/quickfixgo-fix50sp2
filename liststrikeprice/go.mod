@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/liststrikeprice
+module github.com/sylr/quickfixgo-fix50sp2/liststrikeprice
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/partyentitlementsupdatereport
+module github.com/sylr/quickfixgo-fix50sp2/partyentitlementsupdatereport
 
 go 1.18
 

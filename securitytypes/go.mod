@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/securitytypes
+module github.com/sylr/quickfixgo-fix50sp2/securitytypes
 
 go 1.18
 

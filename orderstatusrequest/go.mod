@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/orderstatusrequest
+module github.com/sylr/quickfixgo-fix50sp2/orderstatusrequest
 
 go 1.18
 

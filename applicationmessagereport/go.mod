@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/applicationmessagereport
+module github.com/sylr/quickfixgo-fix50sp2/applicationmessagereport
 
 go 1.18
 

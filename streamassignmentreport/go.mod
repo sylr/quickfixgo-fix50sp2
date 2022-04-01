@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/streamassignmentreport
+module github.com/sylr/quickfixgo-fix50sp2/streamassignmentreport
 
 go 1.18
 

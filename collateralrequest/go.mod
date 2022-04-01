@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/collateralrequest
+module github.com/sylr/quickfixgo-fix50sp2/collateralrequest
 
 go 1.18
 

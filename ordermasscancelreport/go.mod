@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/ordermasscancelreport
+module github.com/sylr/quickfixgo-fix50sp2/ordermasscancelreport
 
 go 1.18
 

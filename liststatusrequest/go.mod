@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/liststatusrequest
+module github.com/sylr/quickfixgo-fix50sp2/liststatusrequest
 
 go 1.18
 

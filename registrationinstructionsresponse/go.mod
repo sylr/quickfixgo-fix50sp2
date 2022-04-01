@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/registrationinstructionsresponse
+module github.com/sylr/quickfixgo-fix50sp2/registrationinstructionsresponse
 
 go 1.18
 

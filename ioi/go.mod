@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/ioi
+module github.com/sylr/quickfixgo-fix50sp2/ioi
 
 go 1.18
 

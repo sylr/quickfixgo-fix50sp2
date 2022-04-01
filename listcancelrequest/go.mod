@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/listcancelrequest
+module github.com/sylr/quickfixgo-fix50sp2/listcancelrequest
 
 go 1.18
 

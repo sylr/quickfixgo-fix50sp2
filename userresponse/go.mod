@@ -1,4 +1,4 @@
-module github.com/quickfixgo/fix50sp2/userresponse
+module github.com/sylr/quickfixgo-fix50sp2/userresponse
 
 go 1.18
 
